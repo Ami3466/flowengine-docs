@@ -6,23 +6,11 @@ Build n8n workflows using AI.
 
 ## Products
 
-### FlowEngine Platform
-[flowengine.cloud](https://flowengine.cloud)
-
-Chat interface that generates n8n workflows. Includes managed n8n hosting.
-
-### FlowEngine MCP Server
-[GitHub](https://github.com/Ami3466/flowengine-mcp-n8n-workflow-builder) (Open Source)
-
-MCP server for Claude Desktop, Cursor, and other AI assistants to build n8n workflows.
-
-### FlowEngine n8n Nodes
-[GitHub](https://github.com/Ami3466/n8n-nodes-flowengine)
-
-Community nodes for n8n:
-- AI Workflow Builder
-- LLM Chat Model
-- Send Email Test (no SMTP setup needed)
+| Product | Description | Link |
+|---------|-------------|------|
+| **FlowEngine Platform** | Chat interface for generating n8n workflows. Includes managed n8n hosting. | [flowengine.cloud](https://flowengine.cloud) |
+| **MCP Server** | Open source MCP server for Claude Desktop, Cursor, and other AI assistants. | [GitHub](https://github.com/Ami3466/flowengine-mcp-n8n-workflow-builder) |
+| **n8n Nodes** | Community nodes: AI Workflow Builder, LLM Chat Model, Send Email Test. | [GitHub](https://github.com/Ami3466/n8n-nodes-flowengine) |
 
 ---
 
