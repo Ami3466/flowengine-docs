@@ -8,11 +8,29 @@ Describe what you want in plain English, and FlowEngine generates production-rea
 
 ## Products
 
-| Product | Description | Link |
-|---------|-------------|------|
-| **FlowEngine Platform** | Web app for building workflows with AI | [flowengine.cloud](https://flowengine.cloud) |
-| **MCP Server** | Build n8n workflows from Claude/Cursor | [GitHub](https://github.com/Ami3466/flowengine-mcp-n8n-workflow-builder) |
-| **n8n Nodes** | AI workflow builder + LLM access in n8n | [GitHub](https://github.com/Ami3466/n8n-nodes-flowengine) |
+### FlowEngine Platform
+The main web app at [flowengine.cloud](https://flowengine.cloud)
+
+- AI-powered workflow generation from natural language
+- Visual workflow editor
+- 50+ LLM models (Claude, GPT-4, Gemini, Mistral, and more)
+- 600+ n8n integrations
+- Managed n8n instance hosting - deploy without infrastructure
+
+### FlowEngine MCP Server (Open Source)
+Give AI assistants the power to build n8n workflows.
+
+- Works with Claude Desktop, Cursor, Windsurf
+- 23 tools: build, edit, validate, test, security scan
+- [GitHub](https://github.com/Ami3466/flowengine-mcp-n8n-workflow-builder) | [Smithery](https://smithery.ai/server/@Ami3466/flowengine-mcp-n8n-workflow-builder)
+
+### FlowEngine n8n Nodes
+Community nodes for n8n.
+
+- **AI Workflow Builder** - Generate workflows from text
+- **LLM Chat Model** - Access 100+ AI models
+- **Send Email Test** - Zero-setup email testing (no SMTP needed)
+- [GitHub](https://github.com/Ami3466/n8n-nodes-flowengine) | `npm install n8n-nodes-flowengine`
 
 ---
 
