@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FlowEngine Platform
+    url: https://flowengine.cloud
+    about: Visit the main FlowEngine platform
+  - name: MCP Server Repo
+    url: https://github.com/Ami3466/flowengine-mcp-n8n-workflow-builder
+    about: MCP server for building n8n workflows
+  - name: n8n Nodes Repo
+    url: https://github.com/Ami3466/n8n-nodes-flowengine
+    about: FlowEngine nodes for n8n
